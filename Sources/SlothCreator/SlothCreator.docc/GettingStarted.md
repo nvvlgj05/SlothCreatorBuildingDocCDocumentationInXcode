@@ -2,6 +2,10 @@
 
 Create a sloth and assign personality traits and abilities.
 
+@Metadata {
+    @PageImage(purpose: card, source: "gettingStarted-card", alt: "The profile images for a regular sloth and an ice sloth.")
+}
+
 ## Overview
 
 Sloths are complex creatures that require careful creation and a suitable habitat. After creating a sloth, you're responsible for feeding them, providing fulfilling activities, and giving them opportunities to exercise and rest. 

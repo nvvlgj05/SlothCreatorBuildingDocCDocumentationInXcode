@@ -2,6 +2,14 @@
 
 Catalog sloths you find in nature and create new adorable virtual sloths.
 
+@Metadata {
+    @PageImage(
+        purpose: icon, 
+        source: "slothCreator-icon", 
+        alt: "A technology icon representing the SlothCreator framework.")
+    @PageColor(green)
+}
+
 ## Overview
 
 SlothCreator provides models and utilities for creating, tracking, and caring for sloths. The framework provides structures to model an individual ``Sloth``, and identify them by key characteristics, including their ``Sloth/name`` and special supernatural ``Sloth/power-swift.property``. You can create your own custom sloths using a ``SlothGenerator``, and name them using a ``NameGenerator``.
@@ -10,15 +18,20 @@ Sloths need careful feeding and maintenance to ensure their health and happiness
 
 You can visualize and observe your sloths by adding a ``SlothView`` to a SwiftUI view structure.
 
-![A sloth hanging off a tree.](sloth.png)
+### Featured
+
+@Links(visualStyle: detailedGrid) {
+    - <doc:GettingStarted>
+    - <doc:SlothySample>
+}
 
 
 ## Topics
 
 ### Essentials
 
-- <doc:/tutorials/SlothCreator>
 - <doc:GettingStarted>
+- <doc:SlothySample>
 - ``Sloth``
 
 ### Sloth Creation
@@ -39,3 +52,4 @@ You can visualize and observe your sloths by adding a ``SlothView`` to a SwiftUI
 - ``SlothView``
 - ``HabitatView``
 - ``PowerPicker``
+- ``SwiftUI/Image``
