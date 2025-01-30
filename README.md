@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# SlothCreatorBuildingDocCDocumentationInXcode
-=======
 # SlothCreator: Building DocC Documentation in Xcode
 
 Build DocC documentation for a Swift package that contains a DocC Catalog.
@@ -12,4 +9,3 @@ Build DocC documentation for a Swift package that contains a DocC Catalog.
 ## Configure the Sample Code Project
 
 To build documentation for this package, use Xcode 13, open the `Package.swift` file, and select Product > Build Documentation.
->>>>>>> 5a97bb3 (Initial commit for SlothCreator)
